@@ -1,0 +1,8 @@
+N_Solicitud,NomUsuario,NomBeneficiario,TipoGasto,Monto,Estado,FechaRegistro,FechaRespuesta,RespuestaEquipo
+MED_00001,Juan Pérez,Juan Pérez,Medicinas,250.0,Aprobado,2025-10-23,2025-10-24,Depósito programado en 3 días
+EXA_00001,Ana Torres,Ana Torres,Exámenes,480.0,Observado,2025-10-22,2025-10-25,Falta comprobante de pago
+CON_00001,Carlos Díaz,Carlos Díaz,Consultas,180.0,Observado,2025-10-12,No,Falta comprobante de pago
+MED_00002,Braitsan Flores Naupay,Braitsan Flores Naupay,Medicinas,300.0,Pendiente,2025-10-25,No,En revisión por el área médica
+MED_00003,Braitsan Flores Naupay,Braitsan Flores Naupay,Medicinas,121.0,Aprobado,2025-10-25,2025-10-26,Aprobado por el equipo médico
+EXA_00002,Braitsan Flores Naupay,Roberto Flores,Exámenes,423.0,Pendiente,2025-10-25,No,En revisión por el área médica
+EXA_00003,Braitsan Flores Naupay,Juan Perez,Exámenes,120.0,Observado,2025-10-26,2025-10-26,Falta adjuntar archivo de pago
