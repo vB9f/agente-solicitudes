@@ -1,4 +1,4 @@
-# 🩺 Agente de Soporte de Reembolsos Médicos
+# 🩺 Agente de Solicitudes de Reembolsos Médicos
 
 Este proyecto implementa un agente conversacional inteligente basado en **LangGraph** y **Streamlit** para la gestión de solicitudes de reembolso. Su principal característica es uso de herramientas (tools) del agente y el **Control de Acceso Basado en Roles (RBAC)** que diferencia las capacidades entre usuarios generales y administradores.
 
@@ -35,5 +35,15 @@ streamlit run app.py
 ```
 ## 🧠 Arquitectura del agente
 
+![Arquitectura del agente](images/arq-agente.png)
 
 ## 🧩 Capturas de la interfaz
+
+### - Login:
+![Login](images/login.png)
+
+### - Chat de usuario administrador:
+![Chat de usuario administrador](images/chat-admin.png)
+
+### - Chat de usuario general:
+![Chat de usuario general](images/chat-general.png)
