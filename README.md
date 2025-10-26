@@ -33,3 +33,7 @@ Para lanzar la interfaz web de Streamlit, utiliza el siguiente comando desde el 
 ```bash
 streamlit run app.py
 ```
+## 🧠 Arquitectura del agente
+
+
+## 🧩 Capturas de la interfaz
